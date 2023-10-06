@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2"
-	"github.com/golang-jwt/jwt/v4"
+	"github.com/golang-jwt/jwt/v5"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/pkcs12"
 
